@@ -1,0 +1,6 @@
+{
+  "name": "Predictor de Riesgo con Regresión Logística",
+  "description": "Aplicación interactiva paso a paso bajo metodología CRISP-DM para predecir resultados Sí/No con regresión logística, evaluar matrices de confusión, curvas ROC/Lift y convertir probabilidades en decisiones de negocio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
